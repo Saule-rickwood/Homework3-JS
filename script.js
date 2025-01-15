@@ -72,3 +72,4 @@ switch (monthNumber) {
         alert('Неверно');
         break;
 }
+
